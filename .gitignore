@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.h5
+*.pyc
+.DS_Store
+model/
+uploads/
